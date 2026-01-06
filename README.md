@@ -9,3 +9,9 @@ The project focus on a qualitative and comparative analysis of modern databases 
 
 ## Availability of Code
 There is no executable application code or comprehensive system implementation involved in this investigation. As required by the course, the repository is made available for transparency and verification purposes.
+
+## Repository Contents
+- Project documentation
+- Methodology description
+- Evaluation metrics
+- Summary of results and findings
